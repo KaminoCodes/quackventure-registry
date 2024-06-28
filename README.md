@@ -4,7 +4,7 @@ This program installs the required registry entries for 'Quackventure'. It is de
 
 ## Purpose
 
-'Quackventure' does not require this program to run, but it enhances user experience by allowing .quack files to be played or edited directly from the context menu.
+'Quackventure' does not require this program to run, but it enhances user experience by allowing .quack files to be played or edited directly from the files' context menu in Explorer.
 
 ## Administrator Privileges
 
@@ -16,7 +16,7 @@ Currently, this program is compatible only with Windows operating systems. I am 
 
 ## Unix Version Development
 
-I am currently unfamiliar with Unix systematics, so developing the Unix version may take some time as I learn and adapt to Unix environments.
+I am currently unfamiliar with Unix systematics, so developing the Unix version may take some time as I learn and adapt this software to Unix environments.
 
 ---
 

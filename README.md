@@ -1,6 +1,6 @@
 # Quackventure Registry Installation Program
 
-This program installs the required registry entries for 'Quackventure'. It is designed to facilitate easier file management and editing from the context menu in File Explorer on Windows systems.
+This program installs the required registry entries for [Quackventure](https://hotcocoastudios.itch.io/quackventure). It is designed to facilitate easier file management and editing from the context menu in File Explorer on Windows systems.
 
 ## Purpose
 
@@ -18,6 +18,3 @@ Currently, this program is compatible only with Windows operating systems. I am 
 
 I am currently unfamiliar with Unix systematics, so developing the Unix version may take some time as I learn and adapt this software to Unix environments.
 
----
-
-Thank you for your interest and patience as I work on improving platform compatibility for 'Quackventure'.
